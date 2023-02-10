@@ -1,4 +1,4 @@
 const vishal = ()=>{
-    console.log("-----Vishal --- Singh-----")
+    console.log("-----YO Bro --- Whats Up-----")
 };
 vishal();
